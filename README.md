@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ariqui14
-- 👀 I’m interested in Video Game Development, Unity Development, and Web Development.
-- 🌱 I’m currently learning jQuery, Python. I am currently familiar with C++, C#, and Java
-- 💞️ I’m looking to collaborate on Indie game code.
+- 👀 I’m interested in Front-End Web Development, with experience in scripting with Python.
+- 🌱 I am proficient with Python, React, Java, and Typescript. I am currently familiar with C++, and C#
 - 📫 How to reach me: quinainar@gmail.com, my LinkedIn page at https://www.linkedin.com/in/ariel-quinain-143b10180/
 
  
